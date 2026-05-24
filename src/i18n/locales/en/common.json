@@ -1,0 +1,18 @@
+{
+  "Submit": "Submit",
+  "Cancel": "Cancel",
+
+  "Dashboard": "Dashboard",
+  "UserManagement": "User Management",
+  "UsersList": "Users List",
+  "Roles": "Roles",
+  "Permissions": "Permissions",
+
+  "Error403Title": "Error 403",
+  "Error403Description": "Access Denied",
+  "BackToHome": "Back to Home",
+  "Error404Title": "Error 404",
+  "Error404Description": "Oops! Page Not Found",
+  "Error500Title": "Error 500",
+  "Error500Description": "Internal Server Error"
+}
