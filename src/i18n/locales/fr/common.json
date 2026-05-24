@@ -1,0 +1,18 @@
+{
+  "Submit": "Soumettre",
+  "Cancel": "Annuler",
+
+  "Dashboard": "Tableau de bord",
+  "UserManagement": "Gestion des utilisateurs",
+  "UsersList": "Liste des utilisateurs",
+  "Roles": "Rôles",
+  "Permissions": "Permissions",
+
+  "Error403Title": "Erreur 403",
+  "Error403Description": "Accès refusé",
+  "BackToHome": "Retour à l'accueil",
+  "Error404Title": "Erreur 404",
+  "Error404Description": "Oups ! Page non trouvée",
+  "Error500Title": "Erreur 500",
+  "Error500Description": "Erreur interne du serveur"
+}

@@ -1,0 +1,14 @@
+{
+  "NewAccount": "Ouvrir un nouveau compte",
+  "Welcome": "Bienvenue",
+
+  "TotalUsers": "Nombre total d'utilisateurs",
+  "ActiveUsers": "Utilisateurs actifs",
+  "TotalRevenue": "Revenu total",
+  "MonthlyRevenue": "Revenu mensuel",
+
+  "Users": "Utilisateurs",
+  "Name": "Nom",
+  "Age": "Âge",
+  "Address": "Adresse"
+}
